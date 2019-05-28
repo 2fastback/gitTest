@@ -27,7 +27,7 @@ puts "Brand new bicycle - using indexes extract new"
 
 puts "Brand new bicycle".gsub("new"," ")
 
-puts "Brand new bicycle - delete last word" "ne uvern chto pravelino"
+puts "Brand new bicycle - delete last word" "nado proveriti, ne uvern chto pravelino"
 
 puts "Brand new bicycle".gsub("bicycle"," ")
 
